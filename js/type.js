@@ -2,8 +2,8 @@ var current = 0;
 var captionLength = 0;
 var captionList = [
   'Hi',
-  'I enjoy outing',
-  'I like to listen music',
+  'I love travelling',
+  'I love bollywood beats',
   'I am Salman Khan fan',
   'I like to play Cricket',
   'I like building stuff',]
